@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 .pytest_cache/
+.pytest_tmp/
 .ruff_cache/
-evidence/
+# evidence/ (required for submission)
 readiness-report.json
